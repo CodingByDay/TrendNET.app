@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner.trendNET.WMS.Android", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.Android\QRScanner.trendNET.WMS.Android.csproj", "{C85283AB-5258-4444-9D80-3229FF9787F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner.trendNET.WMS", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.csproj", "{E8BB9551-9A56-4D07-AF79-D8E2F138683D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85283AB-5258-4444-9D80-3229FF9787F2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BB9551-9A56-4D07-AF79-D8E2F138683D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {960AAD48-9437-446D-920E-17E0FCD24DC6}
+	EndGlobalSection
+EndGlobal
