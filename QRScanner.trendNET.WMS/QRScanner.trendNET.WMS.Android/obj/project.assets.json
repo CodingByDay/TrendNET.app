@@ -1936,9 +1936,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.WMS.Android.csproj",
-      "projectName": "QRScanner.trendNET.WMS.Android",
-      "projectPath": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.WMS.Android.csproj",
+      "projectUniqueName": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.csproj",
+      "projectName": "QRScanner.trendNET",
+      "projectPath": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.csproj",
       "packagesPath": "C:\\Users\\hanuman\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\obj\\",
       "projectStyle": "PackageReference",

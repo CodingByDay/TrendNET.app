@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner.trendNET.WMS.Android", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.Android\QRScanner.trendNET.WMS.Android.csproj", "{C85283AB-5258-4444-9D80-3229FF9787F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner.trendNET", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.Android\QRScanner.trendNET.csproj", "{C85283AB-5258-4444-9D80-3229FF9787F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner.trendNET.WMS", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.csproj", "{E8BB9551-9A56-4D07-AF79-D8E2F138683D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRScanner.trendNET.WMS", "QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS.csproj", "{E8BB9551-9A56-4D07-AF79-D8E2F138683D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

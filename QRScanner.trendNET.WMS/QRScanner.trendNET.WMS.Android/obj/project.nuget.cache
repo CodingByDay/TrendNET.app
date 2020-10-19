@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tWvTR3EqlekUjJaLgN1v74FdXM+24YhxQGiMtCbxmfYzdL5iVYOiotvWa/IrnM5SE2pjEQhC/qjO8cYP4QWHQ==",
+  "dgSpecHash": "h0aIlcTkRiNmLQ1TifT74ncLZwLr8wKcG17fAOxibAb2rqW9Lk1PpBB3TByvtxGYOb6rWx9eiUqYH793r/Ek7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.WMS.Android.csproj",
+  "projectFilePath": "C:\\Users\\hanuman\\source\\repos\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS\\QRScanner.trendNET.WMS.Android\\QRScanner.trendNET.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

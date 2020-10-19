@@ -13,4 +13,4 @@ C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRSc
 C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\obj\Debug\netstandard2.0\ref\QRScanner.trendNET.WMS.dll
 C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\obj\Debug\netstandard2.0\QRScanner.trendNET.WMS.pdb
 C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\obj\Debug\netstandard2.0\Registration.xaml.g.cs
-C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
+C:\Users\hanuman\source\repos\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\QRScanner.trendNET.WMS\obj\Debug\netstandard2.0\Pages\MainMenu.xaml.g.cs

@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("QRScanner.trendNET.WMS.MainMenu.xaml", "MainMenu.xaml", typeof(global::QRScanner.trendNET.WMS.MainMenu))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("QRScanner.trendNET.WMS.Pages.MainMenu.xaml", "Pages/MainMenu.xaml", typeof(global::QRScanner.trendNET.WMS.MainMenu))]
 
 namespace QRScanner.trendNET.WMS {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainMenu.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\MainMenu.xaml")]
     public partial class MainMenu : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
